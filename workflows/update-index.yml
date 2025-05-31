@@ -1,0 +1,30 @@
+name: Update Script Index
+
+on:
+  push:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-index:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Run update script
+        run: python .github/scripts/update_index.py
+
+      - name: Commit and push updated indexes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update script indexes"
+          file_pattern: "scripts/**/index.json apps.json"

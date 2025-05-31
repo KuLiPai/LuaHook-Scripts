@@ -1,0 +1,22 @@
+name: Validate Lua Script Headers
+
+on:
+  pull_request:
+    paths:
+      - "scripts/**/*.lua"
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Validate Lua Headers
+        run: python .github/scripts/validate_lua.py
+
