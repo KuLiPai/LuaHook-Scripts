@@ -1,3 +1,7 @@
+-- name: 源计划2.4.0 hook会员
+-- descript: 解锁源计划2.4.0的会员权限
+-- package: com.variable.apkhook
+-- author: huajiqaq
 imports "java.lang.System"
 
 local needtip=true
