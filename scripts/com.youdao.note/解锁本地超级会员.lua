@@ -1,4 +1,4 @@
--- name: 解锁超级会员
+-- name: 解锁本地超级会员
 -- descript: 解锁本地超级会员
 -- package: com.youdao.note
 -- author: 怀天
