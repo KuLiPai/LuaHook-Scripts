@@ -1,5 +1,5 @@
--- name: 解锁团纸日记永久PRO
--- descript: 解锁团纸日记永久PRO
+-- name: 团纸日记永久PRO
+-- descript: 团纸日记永久PRO
 -- package: com.tuanzhiriji.ningguang
 -- author: 怀天
 
