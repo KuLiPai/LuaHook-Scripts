@@ -1,5 +1,5 @@
 -- name: 满级存档
--- descript: 满级存档
+-- descript: 满级存档(ver. 7.9.0)
 -- package: com.ChillyRoom.DungeonShooter
 -- author: 怀天
 
