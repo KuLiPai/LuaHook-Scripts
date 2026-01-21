@@ -1,5 +1,5 @@
 -- name: 解锁PRO
--- descript: Fotor 本地会员
+-- descript: Fotor 本地会员(ver.7.4.4.1136)
 -- package: com.everimaging.photoeffectstudio
 -- author: 怀天
 
