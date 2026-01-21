@@ -1,5 +1,5 @@
 -- name: 永久会员
--- descript: 解锁永久会员
+-- descript: 解锁永久会员(ver. 8.8.3)
 -- package: com.zjzy.calendartime
 -- author: 怀天
 
