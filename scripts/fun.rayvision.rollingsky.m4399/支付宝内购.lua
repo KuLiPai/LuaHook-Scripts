@@ -1,5 +1,5 @@
 -- name: 支付宝内购
--- descript: 支付宝内购
+-- descript: 支付宝内购(ver. 1.6.3)
 -- package: fun.rayvision.rollingsky.m4399
 -- author: 怀天
 
