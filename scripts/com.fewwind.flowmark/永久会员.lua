@@ -1,5 +1,5 @@
 -- name: 解锁永久会员
--- descript: 解锁FlowMark永久会员(ver. 2.6.4)
+-- descript: 解锁FlowMark永久会员(ver. 2.6.6)
 -- package: com.fewwind.flowmark
 -- author: 怀天
 
