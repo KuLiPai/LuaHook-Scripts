@@ -1,5 +1,5 @@
 -- name: 解锁内购
--- descript: 解锁内购(ver. 4.3.0)
+-- descript: 解锁4399内购(ver. 4.3.0)
 -- package: com.joym.xiongdakuaipao
 -- author: 怀天
 
