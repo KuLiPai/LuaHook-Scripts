@@ -1,4 +1,4 @@
--- name: 团纸日记永久PRO
+-- name: 团纸日记
 -- descript: 团纸日记永久PRO(ver. 3.5.1)
 -- package: com.tuanzhiriji.ningguang
 -- author: 怀天
