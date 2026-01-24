@@ -1,4 +1,4 @@
--- name: 解锁尊享会员
+-- name: AI天气预报
 -- descript: 解锁尊享会员(ver. 1.2.2.1)
 -- package: com.weatherforecastnetba
 -- author: 怀天
