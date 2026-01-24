@@ -1,4 +1,4 @@
--- name: 支付宝内购+去广告
+-- name: 去水印吧
 -- descript: 支付宝内购+去广告(ver. 2.1.9)
 -- package: company.szkj.watermark
 -- author: 怀天
