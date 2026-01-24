@@ -1,4 +1,4 @@
--- name: 解锁PRO
+-- name: 最后一卷胶片
 -- descript: 解锁PRO(ver. 2.17)
 -- package: com.pixelorange.filmroll
 -- author: 怀天
