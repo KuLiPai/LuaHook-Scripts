@@ -1,4 +1,4 @@
--- name: 支付宝内购
+-- name: 保卫萝卜2
 -- descript: 支付宝内购(ver. 5.2.6)
 -- package: com.carrot.iceworld
 -- author: 怀天
