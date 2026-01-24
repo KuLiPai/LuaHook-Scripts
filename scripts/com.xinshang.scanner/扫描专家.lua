@@ -1,4 +1,4 @@
--- name: 解锁终身会员
+-- name: 扫描专家
 -- descript: 解锁终身会员(ver. 1.6.1)
 -- package: com.xinshang.scanner
 -- author: 怀天
