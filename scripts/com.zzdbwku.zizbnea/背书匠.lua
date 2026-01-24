@@ -1,4 +1,4 @@
--- name: 解锁永久会员
+-- name: 背书匠
 -- descript: 解锁永久会员(ver. 2.1.0)
 -- package: com.zzdbwku.zizbnea
 -- author: 怀天
