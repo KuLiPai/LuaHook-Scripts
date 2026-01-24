@@ -1,4 +1,4 @@
--- name: 解锁终身会员
+-- name: AiPPT生成
 -- descript: 解锁会员(ver. 2.0.14)
 -- package: com.zuoan.ai.pptsc
 -- author: 怀天
