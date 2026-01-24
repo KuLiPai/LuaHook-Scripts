@@ -1,5 +1,5 @@
--- name: 解锁VIP
--- descript: 简讯VIP(ver. 5.0.59)
+-- name: 简讯
+-- descript: 解锁VIP(ver. 5.0.59)
 -- package: com.tipsoon.android
 -- author: 怀天
 
