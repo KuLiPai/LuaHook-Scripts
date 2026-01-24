@@ -1,5 +1,5 @@
--- name: 解锁永久会员
--- descript: 一键去水印永久会员(ver. 3.5.6)
+-- name: 一键去水印
+-- descript: 解锁永久会员(ver. 3.5.6)
 -- package: cn.nineton.watermark
 -- author: 怀天
 
