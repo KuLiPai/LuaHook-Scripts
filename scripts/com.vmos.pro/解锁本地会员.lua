@@ -1,5 +1,5 @@
--- name: VMOS本地会员
--- descript: 解锁VMOS本地会员
+-- name: VMOS Pro
+-- descript: 解锁本地会员(ver. 3.0.7)
 -- package: com.vmos.pro
 -- author: KuLiPai
 

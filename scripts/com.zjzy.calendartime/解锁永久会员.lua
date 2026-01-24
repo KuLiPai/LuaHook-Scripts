@@ -1,4 +1,4 @@
--- name: 永久会员
+-- name: 指尖时光
 -- descript: 解锁永久会员(ver. 8.9.0)
 -- package: com.zjzy.calendartime
 -- author: 怀天

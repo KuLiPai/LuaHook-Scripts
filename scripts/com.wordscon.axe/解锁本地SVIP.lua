@@ -1,6 +1,6 @@
--- name: 开练
--- descript: 解锁永久会员(ver. 7.0.4)
--- package: com.yuanlue.sportnote
+-- name: 句子控
+-- descript: 解锁本地SVIP(ver. 6.0.1)
+-- package: com.wordscon.axe
 -- author: 怀天
 
 hook {
@@ -12,8 +12,8 @@ hook {
    
    
    hook {
-     class="com.yuanlue.sportnote.login.UserInfo$UserData",
-     method="isVip",
+     class="com.wordscon.axe.auth.AXUserManager$Companion",
+     method="isMember",
      classloader=loader,
      params={},
      before=function(it)
@@ -23,8 +23,19 @@ hook {
          it.result = true
      end
    }hook {
-     class="com.yuanlue.sportnote.login.UserInfo$UserData",
-     method="isForeverVip",
+     class="com.wordscon.axe.auth.AXUserManager$Companion",
+     method="isSuperMember",
+     classloader=loader,
+     params={},
+     before=function(it)
+
+     end,
+     after=function(it)
+         it.result = true
+     end
+   }hook {
+     class="com.wordscon.axe.auth.AXUserManager$Companion",
+     method="isPermanentMember",
      classloader=loader,
      params={},
      before=function(it)

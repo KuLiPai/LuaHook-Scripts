@@ -1,4 +1,4 @@
--- name: 解锁永久会员
+-- name: 团团记账
 -- descript: 解锁永久会员(ver. 2.5.5)
 -- package: com.gameley.ttjz
 -- author: 怀天

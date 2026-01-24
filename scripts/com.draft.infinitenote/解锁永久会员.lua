@@ -1,4 +1,4 @@
--- name: 解锁永久会员
+-- name: notes笔记
 -- descript: 解锁永久会员(ver. 2.2.0)
 -- package: com.draft.infinitenote
 -- author: 怀天

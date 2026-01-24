@@ -1,5 +1,5 @@
--- name: 解锁本地会员
--- descript: 解锁YOYO日常本地会员(ver. 3.6.0)
+-- name: YOYO日常
+-- descript: 解锁本地会员(ver. 3.6.0)
 -- package: cn.nineton.dailycheck
 -- author: 怀天
 

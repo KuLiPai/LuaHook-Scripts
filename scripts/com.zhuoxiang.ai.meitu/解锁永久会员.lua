@@ -1,4 +1,4 @@
--- name: 解锁永久会员
+-- name: AI美图师
 -- descript: 解锁永久会员(ver. 2.9.1)
 -- package: com.zhuoxiang.ai.meitu
 -- author: 怀天

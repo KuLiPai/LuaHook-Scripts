@@ -1,4 +1,4 @@
--- name: 解锁永久会员
+-- name: 英语外刊
 -- descript: 解锁永久会员(ver. 2.6.2)
 -- package: com.abcd.reading
 -- author: 怀天
