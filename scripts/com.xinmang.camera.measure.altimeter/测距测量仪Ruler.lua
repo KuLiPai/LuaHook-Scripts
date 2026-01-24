@@ -1,4 +1,4 @@
--- name: 解锁永久会员
+-- name: 测距测量仪Ruler
 -- descript: 解锁永久会员(ver. 2.5.79)
 -- package: com.xinmang.camera.measure.altimeter
 -- author: 怀天
