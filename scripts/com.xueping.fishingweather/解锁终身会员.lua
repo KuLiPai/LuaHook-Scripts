@@ -1,5 +1,5 @@
 -- name: 钓鱼天气
--- descript: 终身会员(ver. 5.2)
+-- descript: 解锁终身会员(ver. 5.2)
 -- package: com.xueping.fishingweather
 -- author: 怀天
 
