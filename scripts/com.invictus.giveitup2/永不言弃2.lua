@@ -1,4 +1,4 @@
--- name: 解锁内购
+-- name: 永不言弃2
 -- descript: 解锁支付宝内购(ver. 1.9.7)
 -- package: com.invictus.giveitup2
 -- author: 怀天
