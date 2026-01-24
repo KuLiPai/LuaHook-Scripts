@@ -1,4 +1,4 @@
--- name: 解锁本地PLUS
+-- name: 小宇宙
 -- descript: 解锁本地PLUS(ver. 2.101.0)
 -- package: app.podcast.cosmos
 -- author: 怀天
