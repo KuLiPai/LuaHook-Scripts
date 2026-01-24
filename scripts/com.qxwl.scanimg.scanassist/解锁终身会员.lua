@@ -1,5 +1,5 @@
 -- name: 扫描Pro
--- descript: 终身会员(ver. 2.2.8)
+-- descript: 解锁终身会员(ver. 2.2.8)
 -- package: com.qxwl.scanimg.scanassist
 -- author: 怀天
 
