@@ -1,4 +1,4 @@
--- name: 解锁永久会员
+-- name: 开练
 -- descript: 解锁永久会员(ver. 7.0.4)
 -- package: com.yuanlue.sportnote
 -- author: 怀天
