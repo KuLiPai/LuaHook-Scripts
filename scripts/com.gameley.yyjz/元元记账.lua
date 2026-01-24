@@ -1,4 +1,4 @@
--- name: 解锁永久会员
+-- name: 元元记账
 -- descript: 解锁永久会员(ver. 1.2.7)
 -- package: com.gameley.yyjz
 -- author: 怀天
